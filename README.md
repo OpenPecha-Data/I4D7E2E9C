@@ -1,10 +1,10 @@
-|P009399|རྫོགས་པ་ཆེན་པོ་སྙིང་ཐིག་ཡ་བཞི་ལས་མཁའ་འགྲོ་ཡང་ཏིག་གི་ཆོས་སྐོར། 
+|I4D7E2E9C|རྫོགས་པ་ཆེན་པོ་སྙིང་ཐིག་ཡ་བཞི་ལས་མཁའ་འགྲོ་ཡང་ཏིག་གི་ཆོས་སྐོར། 
 | --- | --- 
 |Alternative Title |
 |Author| 隆钦热降巴·赤墨俄色
 |BDRC ID | W3CN5345
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P009399)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P009399/releases/download/v1/dzokpa_chenpo_nyingtik_ya_shyi_plain_P009399.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P009399/releases/download/v1/dzokpa_chenpo_nyingtik_ya_shyi_pages_P009399.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I4D7E2E9C)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I4D7E2E9C/releases/download/v1/dzokpa_chenpo_nyingtik_ya_shyi_plain_I4D7E2E9C.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I4D7E2E9C/releases/download/v1/dzokpa_chenpo_nyingtik_ya_shyi_pages_I4D7E2E9C.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W3CN5345)
